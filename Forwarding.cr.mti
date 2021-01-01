@@ -1,0 +1,190 @@
+{C:/Users/Shakiba/Desktop/New folder (2)/WB_STAGE.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/WB_STAGE.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WB_STAGE
+
+Top level modules:
+	WB_STAGE
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/REGISTER_FILE.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/REGISTER_FILE.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module REGISTER_FILE
+
+Top level modules:
+	REGISTER_FILE
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/ADDER32bit.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/ADDER32bit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ADDER32bit
+
+Top level modules:
+	ADDER32bit
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/CONDITION_CHECK.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/CONDITION_CHECK.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CONDITION_CHECK
+
+Top level modules:
+	CONDITION_CHECK
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE_REG.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE_REG.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_STAGE_REG
+
+Top level modules:
+	ID_STAGE_REG
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EXE_STAGE
+
+Top level modules:
+	EXE_STAGE
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/MEM_STAGE_REG.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/MEM_STAGE_REG.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_STAGE_REG
+
+Top level modules:
+	MEM_STAGE_REG
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE_REG.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE_REG.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_STAGE_REG
+
+Top level modules:
+	IF_STAGE_REG
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/CONTROL_UNIT.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/CONTROL_UNIT.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CONTROL_UNIT
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/TestBench.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_STAGE
+
+Top level modules:
+	ID_STAGE
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/STATUS_REG.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/STATUS_REG.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module STATUS_REG
+
+Top level modules:
+	STATUS_REG
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/HAZARD_UNIT.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/HAZARD_UNIT.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HAZARD_UNIT
+
+Top level modules:
+	HAZARD_UNIT
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/INSTRUCTION_MEMORY.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/INSTRUCTION_MEMORY.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module INSTRUCTION_MEMORY
+
+Top level modules:
+	INSTRUCTION_MEMORY
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_STAGE
+
+Top level modules:
+	IF_STAGE
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/BRANCH_ADDR_CALC.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/BRANCH_ADDR_CALC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BRANCH_ADDR_CALC
+
+Top level modules:
+	BRANCH_ADDR_CALC
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/Mux2to1_4bits.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/Mux2to1_4bits.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1_4bits
+
+Top level modules:
+	Mux2to1_4bits
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/VAL2_GEN.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/VAL2_GEN.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module VAL2_GEN
+
+Top level modules:
+	VAL2_GEN
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/MUX3to1_32bits.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/MUX3to1_32bits.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX3to1_32bits
+
+Top level modules:
+	MUX3to1_32bits
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/ARM_PROCESSOR.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/ARM_PROCESSOR.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ARM
+
+Top level modules:
+	ARM
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/ALU_UNIT.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/ALU_UNIT.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_UNIT
+
+Top level modules:
+	ALU_UNIT
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1_9bits.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1_9bits.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1_9bits
+
+Top level modules:
+	Mux2to1_9bits
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/DATA_MEMORY.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/DATA_MEMORY.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DATA_MEMORY
+
+Top level modules:
+	DATA_MEMORY
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE_REG.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE_REG.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EXE_STAGE_REG
+
+Top level modules:
+	EXE_STAGE_REG
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/FORWARDING_UNIT.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/FORWARDING_UNIT.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FORWARDING_UNIT
+
+Top level modules:
+	FORWARDING_UNIT
+
+} {} {}} {C:/Users/Shakiba/Desktop/New folder (2)/PC.v} {1 {vlog -work work {C:/Users/Shakiba/Desktop/New folder (2)/PC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}}

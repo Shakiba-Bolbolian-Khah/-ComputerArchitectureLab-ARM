@@ -1,0 +1,545 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\altera\13.0sp1
+vADDER32bit
+Z1 !s100 mQ?XRmW1o5EZzLzY`ePKK2
+Z2 I27L0V>g5OWTYH6MVCOLXE3
+Z3 VOZU_bHDocHiE]cf?ST7gW1
+Z4 dC:\Users\Shakiba\Desktop\New folder (2)
+Z5 w1607614571
+Z6 8C:/Users/Shakiba/Desktop/New folder (2)/ADDER32bit.v
+Z7 FC:/Users/Shakiba/Desktop/New folder (2)/ADDER32bit.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/ADDER32bit.v|
+Z10 o-work work -O0
+Z11 n@a@d@d@e@r32bit
+Z12 !s108 1608465853.116000
+Z13 !s107 C:/Users/Shakiba/Desktop/New folder (2)/ADDER32bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_UNIT
+Z14 !s100 1;J6LM=nEA4N_8LJCWA4T2
+Z15 I8:59g<d:N7em;Vf?nR>ZD2
+Z16 VL=[TfnZES1@EW93[MfIgG3
+R4
+Z17 w1608460024
+Z18 8C:/Users/Shakiba/Desktop/New folder (2)/ALU_UNIT.v
+Z19 FC:/Users/Shakiba/Desktop/New folder (2)/ALU_UNIT.v
+L0 3
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/ALU_UNIT.v|
+R10
+Z21 n@a@l@u_@u@n@i@t
+Z22 !s108 1608465853.294000
+Z23 !s107 C:/Users/Shakiba/Desktop/New folder (2)/ALU_UNIT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vARM
+Z24 !s100 Z1Gao;JjP@5YeLJiFLmVX2
+Z25 INzMMTNGb>C:UE`EOjSaD]0
+Z26 VoIAgTlITL<^GlLHTgL<CF1
+R4
+Z27 w1608281318
+Z28 8C:/Users/Shakiba/Desktop/New folder (2)/ARM_PROCESSOR.v
+Z29 FC:/Users/Shakiba/Desktop/New folder (2)/ARM_PROCESSOR.v
+L0 3
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/ARM_PROCESSOR.v|
+R10
+Z31 n@a@r@m
+Z32 !s108 1608465853.491000
+Z33 !s107 C:/Users/Shakiba/Desktop/New folder (2)/ARM_PROCESSOR.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBRANCH_ADDR_CALC
+Z34 !s100 Ba?T8=6ZRkf`e3YGCU6L:0
+Z35 I:nVl5BYLY_LmU7Hk<45<C0
+Z36 V7i9Qz:neEo=I=E]>:LDAz3
+R4
+Z37 w1607710786
+Z38 8C:/Users/Shakiba/Desktop/New folder (2)/BRANCH_ADDR_CALC.v
+Z39 FC:/Users/Shakiba/Desktop/New folder (2)/BRANCH_ADDR_CALC.v
+L0 3
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/BRANCH_ADDR_CALC.v|
+R10
+Z41 n@b@r@a@n@c@h_@a@d@d@r_@c@a@l@c
+Z42 !s108 1608465853.692000
+Z43 !s107 C:/Users/Shakiba/Desktop/New folder (2)/BRANCH_ADDR_CALC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCONDITION_CHECK
+Z44 !s100 f[=bP?eYdU]bcfm0AH2Yk0
+Z45 ILQFXdZ]ijzTf58U5RDzoC0
+Z46 V_41zOPZo1]jVc6i6^zjd?0
+R4
+Z47 w1607607544
+Z48 8C:/Users/Shakiba/Desktop/New folder (2)/CONDITION_CHECK.v
+Z49 FC:/Users/Shakiba/Desktop/New folder (2)/CONDITION_CHECK.v
+L0 3
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/CONDITION_CHECK.v|
+R10
+Z51 n@c@o@n@d@i@t@i@o@n_@c@h@e@c@k
+Z52 !s108 1608465853.913000
+Z53 !s107 C:/Users/Shakiba/Desktop/New folder (2)/CONDITION_CHECK.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCONTROL_UNIT
+Z54 !s100 mOleLoM0>zHjMRDJ^0>eF0
+Z55 IBo=@o[YQdD>6LLdc=dK3D0
+Z56 VlQoCokbGlzE:m61n:CO]70
+R4
+Z57 w1608465826
+Z58 8C:/Users/Shakiba/Desktop/New folder (2)/CONTROL_UNIT.v
+Z59 FC:/Users/Shakiba/Desktop/New folder (2)/CONTROL_UNIT.v
+L0 3
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/CONTROL_UNIT.v|
+R10
+Z61 n@c@o@n@t@r@o@l_@u@n@i@t
+Z62 !s108 1608465854.178000
+Z63 !s107 C:/Users/Shakiba/Desktop/New folder (2)/CONTROL_UNIT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDATA_MEMORY
+Z64 !s100 azCdLDm<eSK0lEZdlSMdd0
+Z65 I@FYnURc8g2jT9bS_R7Alo0
+Z66 V[InSP`HGBFFd>E_A4I6NU3
+R4
+Z67 w1607696722
+Z68 8C:/Users/Shakiba/Desktop/New folder (2)/DATA_MEMORY.v
+Z69 FC:/Users/Shakiba/Desktop/New folder (2)/DATA_MEMORY.v
+L0 3
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/DATA_MEMORY.v|
+R10
+Z71 n@d@a@t@a_@m@e@m@o@r@y
+Z72 !s108 1608465854.539000
+Z73 !s107 C:/Users/Shakiba/Desktop/New folder (2)/DATA_MEMORY.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEXE_STAGE
+Z74 !s100 mjFO>0?I0l;:e3n`lERLM3
+Z75 I111>?hcm>l@YM6XYffJl53
+Z76 VEjL263`e7_^[eP:H3U[0R0
+R4
+Z77 w1608274699
+Z78 8C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE.v
+Z79 FC:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE.v
+L0 3
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE.v|
+R10
+Z81 n@e@x@e_@s@t@a@g@e
+Z82 !s108 1608465854.731000
+Z83 !s107 C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEXE_STAGE_REG
+Z84 !s100 73JTgIcfPEf]829g>N;Ra0
+Z85 IR4iim6`IS^:aOD_fFI^C00
+Z86 V1fAJB0UaEl[4@CYzE0fez0
+R4
+Z87 w1607615520
+Z88 8C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE_REG.v
+Z89 FC:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE_REG.v
+L0 3
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE_REG.v|
+R10
+Z91 n@e@x@e_@s@t@a@g@e_@r@e@g
+Z92 !s108 1608465854.942000
+Z93 !s107 C:/Users/Shakiba/Desktop/New folder (2)/EXE_STAGE_REG.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFORWARDING_UNIT
+Z94 !s100 c1RKMg=ROMJ4Q0GzU:^fk1
+Z95 IjZ_gHjQ8VPeTJnZz<gHV?1
+Z96 VN[nn=KSzBS]5B>hd_Z1]D3
+R4
+Z97 w1608278401
+Z98 8C:/Users/Shakiba/Desktop/New folder (2)/FORWARDING_UNIT.v
+Z99 FC:/Users/Shakiba/Desktop/New folder (2)/FORWARDING_UNIT.v
+L0 3
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/FORWARDING_UNIT.v|
+R10
+Z101 n@f@o@r@w@a@r@d@i@n@g_@u@n@i@t
+Z102 !s108 1608465855.166000
+Z103 !s107 C:/Users/Shakiba/Desktop/New folder (2)/FORWARDING_UNIT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHAZARD_UNIT
+Z104 !s100 _4AA3]5HVAfhFJSHVUBdH3
+Z105 I:LXV7_6?09UHkfcUc_]D;3
+Z106 V?ZIL39eYGQdM<]I4jRfBa1
+R4
+Z107 w1608276295
+Z108 8C:/Users/Shakiba/Desktop/New folder (2)/HAZARD_UNIT.v
+Z109 FC:/Users/Shakiba/Desktop/New folder (2)/HAZARD_UNIT.v
+L0 3
+R8
+r1
+31
+Z110 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/HAZARD_UNIT.v|
+R10
+Z111 n@h@a@z@a@r@d_@u@n@i@t
+Z112 !s108 1608465855.352000
+Z113 !s107 C:/Users/Shakiba/Desktop/New folder (2)/HAZARD_UNIT.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_STAGE
+Z114 !s100 f[I4H^E2=:6T?[gM?YAKi0
+Z115 ISW9cGBAHY;io40=T]fmZJ2
+Z116 Vo:ec40^NjcXT?WFD35bXO2
+R4
+Z117 w1607700257
+Z118 8C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE.v
+Z119 FC:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE.v
+L0 3
+R8
+r1
+31
+Z120 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE.v|
+R10
+Z121 n@i@d_@s@t@a@g@e
+Z122 !s108 1608465855.582000
+Z123 !s107 C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_STAGE_REG
+Z124 !s100 >;J]V;K<^Y>7O:0i=cg]T3
+Z125 I:F`<nNAjm8KbidHmiLC490
+Z126 V`n_z]9E;jYDV^K<6KC5:91
+R4
+Z127 w1608272223
+Z128 8C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE_REG.v
+Z129 FC:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE_REG.v
+L0 3
+R8
+r1
+31
+Z130 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE_REG.v|
+R10
+Z131 n@i@d_@s@t@a@g@e_@r@e@g
+Z132 !s108 1608465855.798000
+Z133 !s107 C:/Users/Shakiba/Desktop/New folder (2)/ID_STAGE_REG.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_STAGE
+Z134 !s100 GbckFchRJTf;MiAE184RS0
+Z135 I]1o5iKK5UR=STzKaAkk:d0
+Z136 V:l7UmBnD9=eh53lGV2]em3
+R4
+Z137 w1607701926
+Z138 8C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE.v
+Z139 FC:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE.v
+L0 3
+R8
+r1
+31
+Z140 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE.v|
+R10
+Z141 n@i@f_@s@t@a@g@e
+Z142 !s108 1608465855.978000
+Z143 !s107 C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_STAGE_REG
+Z144 !s100 EohKAa^[57OSfNK>M`Yj=2
+Z145 I^FZCf;WKYe_GY;808J7PI2
+Z146 VN7?3Qgg_VMjLo=dlN]5<61
+R4
+Z147 w1607506245
+Z148 8C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE_REG.v
+Z149 FC:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE_REG.v
+L0 3
+R8
+r1
+31
+Z150 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE_REG.v|
+R10
+Z151 n@i@f_@s@t@a@g@e_@r@e@g
+Z152 !s108 1608465856.174000
+Z153 !s107 C:/Users/Shakiba/Desktop/New folder (2)/IF_STAGE_REG.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vINSTRUCTION_MEMORY
+Z154 !s100 Ah]hK2n_9njb3b<7>7UF31
+Z155 IfZO>2=19F6A?@Z^@L6oi=1
+Z156 V_LmPcQIO:]XIc6k8F>oH62
+R4
+Z157 w1607699859
+Z158 8C:/Users/Shakiba/Desktop/New folder (2)/INSTRUCTION_MEMORY.v
+Z159 FC:/Users/Shakiba/Desktop/New folder (2)/INSTRUCTION_MEMORY.v
+L0 2
+R8
+r1
+31
+Z160 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/INSTRUCTION_MEMORY.v|
+R10
+Z161 n@i@n@s@t@r@u@c@t@i@o@n_@m@e@m@o@r@y
+Z162 !s108 1608465856.386000
+Z163 !s107 C:/Users/Shakiba/Desktop/New folder (2)/INSTRUCTION_MEMORY.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_STAGE_REG
+Z164 !s100 `[cKg_CiF_W5?2a_OZSfd1
+Z165 IfO<7kH8:K5a6FY^Fc?EB`3
+Z166 V:mk<:hz0fW;jORE2NV;^R1
+R4
+Z167 w1607619417
+Z168 8C:/Users/Shakiba/Desktop/New folder (2)/MEM_STAGE_REG.v
+Z169 FC:/Users/Shakiba/Desktop/New folder (2)/MEM_STAGE_REG.v
+L0 3
+R8
+r1
+31
+Z170 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/MEM_STAGE_REG.v|
+R10
+Z171 n@m@e@m_@s@t@a@g@e_@r@e@g
+Z172 !s108 1608465856.591000
+Z173 !s107 C:/Users/Shakiba/Desktop/New folder (2)/MEM_STAGE_REG.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2to1
+Z174 !s100 dl0JnSNjh_R5OgVFYbiPh1
+Z175 Ik=UCV@aE@MN87^WnGmQTC2
+Z176 VmL7kCD8a9NjTW`ZX7faR^1
+R4
+Z177 w1607608647
+Z178 8C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1.v
+Z179 FC:/Users/Shakiba/Desktop/New folder (2)/MUX2to1.v
+L0 3
+R8
+r1
+31
+Z180 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1.v|
+R10
+Z181 n@mux2to1
+Z182 !s108 1608465856.825000
+Z183 !s107 C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2to1_4bits
+Z184 !s100 JL;28R`:E2``N:]dMiO^P2
+Z185 I]Vl;EJSK;YmC]`SMNf5442
+Z186 V07BBjA2_Je6L0UFMmmBQ70
+R4
+Z187 w1607689875
+Z188 8C:/Users/Shakiba/Desktop/New folder (2)/Mux2to1_4bits.v
+Z189 FC:/Users/Shakiba/Desktop/New folder (2)/Mux2to1_4bits.v
+L0 3
+R8
+r1
+31
+Z190 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/Mux2to1_4bits.v|
+R10
+Z191 n@mux2to1_4bits
+Z192 !s108 1608465857.042000
+Z193 !s107 C:/Users/Shakiba/Desktop/New folder (2)/Mux2to1_4bits.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2to1_9bits
+Z194 !s100 @7DSY:cNczVj`:Co;d4hS1
+Z195 ILg?`f2FlLQLRijKC`8:X>0
+Z196 VD71ag^ddJTS6jzbmAeFb>0
+R4
+Z197 w1607688726
+Z198 8C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1_9bits.v
+Z199 FC:/Users/Shakiba/Desktop/New folder (2)/MUX2to1_9bits.v
+L0 3
+R8
+r1
+31
+Z200 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1_9bits.v|
+R10
+Z201 n@mux2to1_9bits
+Z202 !s108 1608465857.365000
+Z203 !s107 C:/Users/Shakiba/Desktop/New folder (2)/MUX2to1_9bits.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX3to1_32bits
+Z204 !s100 XBNhk`M3oA8KRn6Jk[86K2
+Z205 I<:lnVAMO3<kPDVo47@k0:1
+Z206 VGacaGldFU:obYSZAYYA]@1
+R4
+Z207 w1608274569
+Z208 8C:/Users/Shakiba/Desktop/New folder (2)/MUX3to1_32bits.v
+Z209 FC:/Users/Shakiba/Desktop/New folder (2)/MUX3to1_32bits.v
+L0 3
+R8
+r1
+31
+Z210 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/MUX3to1_32bits.v|
+R10
+Z211 n@m@u@x3to1_32bits
+Z212 !s108 1608465857.577000
+Z213 !s107 C:/Users/Shakiba/Desktop/New folder (2)/MUX3to1_32bits.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z214 !s100 84maKi`mm<>dYZX;K4NS<3
+Z215 IJ33bPWa4k2MKL@L2cb]ET3
+Z216 VD`6h9LTJm@^QfLZ5<BYHD2
+R4
+Z217 w1607504793
+Z218 8C:/Users/Shakiba/Desktop/New folder (2)/PC.v
+Z219 FC:/Users/Shakiba/Desktop/New folder (2)/PC.v
+L0 3
+R8
+r1
+31
+Z220 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/PC.v|
+R10
+n@p@c
+Z221 !s108 1608465857.781000
+Z222 !s107 C:/Users/Shakiba/Desktop/New folder (2)/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vREGISTER_FILE
+Z223 !s100 GEP;RG<az_<JabjFY6TF23
+Z224 IVJlz6JD`^MOaci5:Sd>kh1
+Z225 V0La=[Y`i><Z9HSIOj0KHh2
+R4
+Z226 w1607660487
+Z227 8C:/Users/Shakiba/Desktop/New folder (2)/REGISTER_FILE.v
+Z228 FC:/Users/Shakiba/Desktop/New folder (2)/REGISTER_FILE.v
+L0 3
+R8
+r1
+31
+Z229 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/REGISTER_FILE.v|
+R10
+Z230 n@r@e@g@i@s@t@e@r_@f@i@l@e
+Z231 !s108 1608465858.148000
+Z232 !s107 C:/Users/Shakiba/Desktop/New folder (2)/REGISTER_FILE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSTATUS_REG
+Z233 !s100 mPkXR]_zAHa6OFCE1X_QT3
+Z234 IShhXT;[LK_V^o@H`U66R32
+Z235 V3I35TYi:KX`T^2Y9YS3Ro3
+R4
+Z236 w1607696194
+Z237 8C:/Users/Shakiba/Desktop/New folder (2)/STATUS_REG.v
+Z238 FC:/Users/Shakiba/Desktop/New folder (2)/STATUS_REG.v
+L0 3
+R8
+r1
+31
+Z239 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/STATUS_REG.v|
+R10
+Z240 n@s@t@a@t@u@s_@r@e@g
+Z241 !s108 1608465858.335000
+Z242 !s107 C:/Users/Shakiba/Desktop/New folder (2)/STATUS_REG.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+Z243 !s100 EI4[e8oAlKfbDBOQ[[8UL3
+Z244 I8?h1beF3=J_beKELJQ5UY2
+Z245 Vc<=32996OT2f`M7E_UhYX1
+R4
+Z246 w1608281539
+Z247 8C:/Users/Shakiba/Desktop/New folder (2)/TestBench.v
+Z248 FC:/Users/Shakiba/Desktop/New folder (2)/TestBench.v
+L0 2
+R8
+r1
+31
+Z249 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/TestBench.v|
+R10
+n@t@b
+Z250 !s108 1608465858.538000
+Z251 !s107 C:/Users/Shakiba/Desktop/New folder (2)/TestBench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vVAL2_GEN
+Z252 !s100 J90;S3?h>I1aR4992PA;m2
+Z253 I^H[Tzelih7Ji_5QioSIE71
+Z254 VUQVc7gPfe5nn2^HAQBLN12
+R4
+Z255 w1607682852
+Z256 8C:/Users/Shakiba/Desktop/New folder (2)/VAL2_GEN.v
+Z257 FC:/Users/Shakiba/Desktop/New folder (2)/VAL2_GEN.v
+L0 3
+R8
+r1
+31
+Z258 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/VAL2_GEN.v|
+R10
+Z259 n@v@a@l2_@g@e@n
+!i10b 1
+!s85 0
+Z260 !s108 1608465858.961000
+Z261 !s107 C:/Users/Shakiba/Desktop/New folder (2)/VAL2_GEN.v|
+!s101 -O0
+vWB_STAGE
+!i10b 1
+Z262 !s100 5k4TiORHEkF1jnRZH6mYh2
+Z263 IZ7HAlGfl:5aQRDZ^?nL?22
+Z264 VG5bSS9KQaHnjKSFH0IXP[1
+R4
+Z265 w1607608755
+Z266 8C:/Users/Shakiba/Desktop/New folder (2)/WB_STAGE.v
+Z267 FC:/Users/Shakiba/Desktop/New folder (2)/WB_STAGE.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1608465861.958000
+!s107 C:/Users/Shakiba/Desktop/New folder (2)/WB_STAGE.v|
+Z268 !s90 -reportprogress|300|-work|work|C:/Users/Shakiba/Desktop/New folder (2)/WB_STAGE.v|
+!s101 -O0
+R10
+Z269 n@w@b_@s@t@a@g@e
